@@ -1,4 +1,32 @@
 body{
     text-align: center;
-    background-color: bisque
+    background-color:dimgray; 
+    margin: 60px
+}
+.first{
+  background-color: white;
+  margin: 20px;
+}
+.lion{
+    background-color: white
+}
+.second a{
+    text-decoration: none;
+    color: gray;
+    padding: 20px;
+    font-size: 20px;
+}
+.beast{
+    text-align: left;
+    padding: 20px;
+}
+
+.beast a{
+    text-decoration: none;
+    color: gray;
+    padding: 20px;
+    font-size: 20px;
+}
+.third{
+   font-family:monospace;
 }
